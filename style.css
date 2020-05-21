@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: linear-gradient(to right, red, blue);
+	align-items: center;
+	justify-content: center;
+	align-content: center;
+	align-self: center;
+	text-align: center;
+
+}
+
+.man h1 {
+	font-family: cursive;
+	margin-top: 100px;
+	margin-bottom: 55px;
+	color: cyan;
+}
+
+.man a {
+	margin-top: 40000px;
+	font-family: all;
+	font-size: 40px;
+	font-stretch: extra-condensed;
+	text-decoration: none;
+	padding: 20px 20px 20px 20px;
+	border: 4px dotted black;
+}
+
